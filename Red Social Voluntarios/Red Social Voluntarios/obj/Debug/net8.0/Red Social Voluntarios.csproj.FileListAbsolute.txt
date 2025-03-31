@@ -1,0 +1,30 @@
+C:\Users\user\source\repos\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\source\repos\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\appsettings.json
+C:\Users\user\source\repos\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Red Social Voluntarios.staticwebassets.runtime.json
+C:\Users\user\source\repos\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Red Social Voluntarios.exe
+C:\Users\user\source\repos\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Red Social Voluntarios.deps.json
+C:\Users\user\source\repos\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Red Social Voluntarios.runtimeconfig.json
+C:\Users\user\source\repos\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Red Social Voluntarios.dll
+C:\Users\user\source\repos\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Red Social Voluntarios.pdb
+C:\Users\user\source\repos\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\Red Social Voluntarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\Red Social Voluntarios.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\Red Social Voluntarios.AssemblyInfo.cs
+C:\Users\user\source\repos\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\Red Social Voluntarios.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\Red Social Voluntarios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\Red Social Voluntarios.RazorAssemblyInfo.cache
+C:\Users\user\source\repos\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\Red Social Voluntarios.RazorAssemblyInfo.cs
+C:\Users\user\source\repos\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\source\repos\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\source\repos\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\staticwebassets\msbuild.Red Social Voluntarios.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\source\repos\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\staticwebassets\msbuild.build.Red Social Voluntarios.props
+C:\Users\user\source\repos\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Red Social Voluntarios.props
+C:\Users\user\source\repos\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Red Social Voluntarios.props
+C:\Users\user\source\repos\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\source\repos\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\source\repos\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\scopedcss\bundle\Red Social Voluntarios.styles.css
+C:\Users\user\source\repos\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\scopedcss\projectbundle\Red Social Voluntarios.bundle.scp.css
+C:\Users\user\source\repos\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\Red Social Voluntarios.dll
+C:\Users\user\source\repos\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\refint\Red Social Voluntarios.dll
+C:\Users\user\source\repos\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\Red Social Voluntarios.pdb
+C:\Users\user\source\repos\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\Red Social Voluntarios.genruntimeconfig.cache
+C:\Users\user\source\repos\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\ref\Red Social Voluntarios.dll
