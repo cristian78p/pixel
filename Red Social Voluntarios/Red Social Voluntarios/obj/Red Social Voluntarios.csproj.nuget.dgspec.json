@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\Red Social Voluntarios\\Red Social Voluntarios\\Red Social Voluntarios.csproj": {}
+    "D:\\Universidad\\semestre4\\Ingenieria\\pixel\\Red Social Voluntarios\\Red Social Voluntarios\\Red Social Voluntarios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\Red Social Voluntarios\\Red Social Voluntarios\\Red Social Voluntarios.csproj": {
+    "D:\\Universidad\\semestre4\\Ingenieria\\pixel\\Red Social Voluntarios\\Red Social Voluntarios\\Red Social Voluntarios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Red Social Voluntarios\\Red Social Voluntarios\\Red Social Voluntarios.csproj",
+        "projectUniqueName": "D:\\Universidad\\semestre4\\Ingenieria\\pixel\\Red Social Voluntarios\\Red Social Voluntarios\\Red Social Voluntarios.csproj",
         "projectName": "Red Social Voluntarios",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Red Social Voluntarios\\Red Social Voluntarios\\Red Social Voluntarios.csproj",
+        "projectPath": "D:\\Universidad\\semestre4\\Ingenieria\\pixel\\Red Social Voluntarios\\Red Social Voluntarios\\Red Social Voluntarios.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Red Social Voluntarios\\Red Social Voluntarios\\obj\\",
+        "outputPath": "D:\\Universidad\\semestre4\\Ingenieria\\pixel\\Red Social Voluntarios\\Red Social Voluntarios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,6 +49,12 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
             }
           },
           "imports": [
@@ -70,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

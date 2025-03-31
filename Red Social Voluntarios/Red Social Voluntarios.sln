@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Red Social Voluntarios", "Red Social Voluntarios\Red Social Voluntarios.csproj", "{481A4A67-AE6A-4A1E-9D8B-9E235AB4877F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Red Social Voluntarios", "Red Social Voluntarios\Red Social Voluntarios.csproj", "{481A4A67-AE6A-4A1E-9D8B-9E235AB4877F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
