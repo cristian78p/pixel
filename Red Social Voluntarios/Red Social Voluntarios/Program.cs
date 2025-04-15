@@ -40,7 +40,8 @@ namespace Red_Social_Voluntarios
         static void Main(string[] args)
         {
             Controlador_Usuario controller = new Controlador_Usuario();
-            controller.RegistrarUsuario();
         }
     }
 }
+
+
