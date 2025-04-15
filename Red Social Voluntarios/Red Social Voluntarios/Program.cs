@@ -32,3 +32,15 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+
+namespace Red_Social_Voluntarios
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Controlador_Usuario controller = new Controlador_Usuario();
+            controller.RegistrarUsuario();
+        }
+    }
+}
