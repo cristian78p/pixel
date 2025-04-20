@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using Red_Social_Voluntarios.Controllers;
 using Red_Social_Voluntarios.Data;
 
 var builder = WebApplication.CreateBuilder(args);

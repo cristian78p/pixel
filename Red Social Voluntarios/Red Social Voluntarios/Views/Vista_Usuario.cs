@@ -1,8 +1,8 @@
-﻿namespace Red_Social_Voluntarios
+﻿namespace Red_Social_Voluntarios.Views
 {
     public class Vista_Usuario
     {
-     public string PedirCorreo()
+        public string PedirCorreo()
         {
             Console.Write("Ingrese su correo electrónico: ");
             return Console.ReadLine();
@@ -26,4 +26,4 @@
         }
     }
 }
-
+}

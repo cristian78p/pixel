@@ -1,4 +1,4 @@
-﻿namespace Red_Social_Voluntarios
+﻿namespace Red_Social_Voluntarios.Models
 {
     public class Usuario
     {
@@ -14,6 +14,4 @@
         }
     }
 }
-    
-
 

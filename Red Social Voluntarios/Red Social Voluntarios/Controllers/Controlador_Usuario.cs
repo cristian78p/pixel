@@ -1,6 +1,11 @@
-﻿namespace Red_Social_Voluntarios
+﻿using Red_Social_Voluntarios.Models;
+using Red_Social_Voluntarios.Views;
+using System.Collections.Generic;
+
+namespace Red_Social_Voluntarios.Controllers
 {
     public class Controlador_Usuario
+
     {
         private Vista_Usuario vista;
 
@@ -19,7 +24,7 @@
             {
                 Usuario nuevoUsuario = new Usuario(correo, nombreUsuario, contrasena);
                 vista.MostrarMensaje("Registro exitoso");
-                    //  Par la base de datos :)
+                //  Par la base de datos :)
             }
         }
 
@@ -41,4 +46,6 @@
         }
     }
 }
+
+    
 
