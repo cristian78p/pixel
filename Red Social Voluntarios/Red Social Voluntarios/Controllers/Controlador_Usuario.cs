@@ -14,7 +14,7 @@ namespace Red_Social_Voluntarios.Controllers
             vista = new Vista_Usuario();
         }
 
-        public void RegistrarUsuario()
+        public void RegistrarUsuario(List<Usuario> listaUsuarios)
         {
             string correo = vista.PedirCorreo();
             string nombreUsuario = vista.PedirNombreUsuario();
@@ -23,6 +23,7 @@ namespace Red_Social_Voluntarios.Controllers
             if (ValidarDatos(correo, nombreUsuario, contrasena))
             {
                 Usuario nuevoUsuario = new Usuario(correo, nombreUsuario, contrasena);
+                listaUsuarios.Add(nuevoUsuario);
                 vista.MostrarMensaje("Registro exitoso");
                 //  Par la base de datos :)
             }
@@ -44,6 +45,24 @@ namespace Red_Social_Voluntarios.Controllers
 
             return true;
         }
+
+        public void IniciarSesion(List<Usuario> usuariosRegistrados)
+        {
+            string correo = vista.PedirCorreo();
+            string contrasena = vista.PedirContrasena();
+
+            Usuario usuarioEncontrado = usuariosRegistrados.FirstOrDefault(u => u.Correo == correo && u.Contrasena == contrasena);
+
+            if (usuarioEncontrado != null)
+            {
+                vista.MostrarMensaje($"¡Bienvenido, {usuarioEncontrado.NombreUsuario}!");
+            }
+            else
+            {
+                vista.MostrarMensaje("Correo o contraseña incorrectos.");
+            }
+        }
+
     }
 }
 
