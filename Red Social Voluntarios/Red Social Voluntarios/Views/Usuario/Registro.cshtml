@@ -1,0 +1,21 @@
+﻿@model Red_Social_Voluntarios.Models.Usuario
+
+<h2>Formulario de Registro</h2>
+
+<form asp-action="Registro" method="post">
+    <label>Correo:</label><br />
+    <input asp-for="Correo" /><br />
+
+    <label>Nombre de Usuario:</label><br />
+    <input asp-for="NombreUsuario" /><br />
+
+    <label>Contraseña:</label><br />
+    <input asp-for="Contrasena" type="password" /><br /><br />
+
+    <button type="submit">Registrarse</button>
+</form>
+
+@if (ViewBag.Mensaje != null)
+{
+    <p style="color:green">@ViewBag.Mensaje</p>
+}

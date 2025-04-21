@@ -543,3 +543,176 @@ C:\Users\crist\Source\Repos\pixel2\Red Social Voluntarios\Red Social Voluntarios
 C:\Users\crist\Source\Repos\pixel2\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\Red Social Voluntarios.pdb
 C:\Users\crist\Source\Repos\pixel2\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\Red Social Voluntarios.genruntimeconfig.cache
 C:\Users\crist\Source\Repos\pixel2\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\ref\Red Social Voluntarios.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\Red Social Voluntarios.csproj.AssemblyReference.cache
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\Red Social Voluntarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\Red Social Voluntarios.AssemblyInfoInputs.cache
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\Red Social Voluntarios.AssemblyInfo.cs
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\Red Social Voluntarios.csproj.CoreCompileInputs.cache
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\Red Social Voluntarios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\Red Social Voluntarios.RazorAssemblyInfo.cache
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\Red Social Voluntarios.RazorAssemblyInfo.cs
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\Red Social Voluntarios.sourcelink.json
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\Red Social Voluntarios.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\refint\Red Social Voluntarios.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\Red Social Voluntarios.pdb
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\appsettings.json
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Red Social Voluntarios.staticwebassets.runtime.json
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Red Social Voluntarios.staticwebassets.endpoints.json
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Red Social Voluntarios.exe
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Red Social Voluntarios.deps.json
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Red Social Voluntarios.runtimeconfig.json
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Red Social Voluntarios.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Red Social Voluntarios.pdb
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Humanizer.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\scopedcss\bundle\Red Social Voluntarios.styles.css
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\scopedcss\projectbundle\Red Social Voluntarios.bundle.scp.css
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\staticwebassets\msbuild.Red Social Voluntarios.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\staticwebassets\msbuild.Red Social Voluntarios.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\staticwebassets\msbuild.build.Red Social Voluntarios.props
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Red Social Voluntarios.props
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Red Social Voluntarios.props
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\Red Soci.54A1F9C8.Up2Date
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\Red Social Voluntarios.genruntimeconfig.cache
+C:\Users\CamiloCano\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\ref\Red Social Voluntarios.dll

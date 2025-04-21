@@ -2,9 +2,12 @@
 {
     public class Usuario
     {
+        public int Id { get; set; } 
         public string Correo { get; set; }
         public string NombreUsuario { get; set; }
         public string Contrasena { get; set; }
+
+        public Usuario() { }
 
         public Usuario(string correo, string nombreUsuario, string contrasena)
         {
@@ -14,4 +17,3 @@
         }
     }
 }
-

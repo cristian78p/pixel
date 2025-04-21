@@ -1,4 +1,6 @@
-﻿namespace Red_Social_Voluntarios.Views
+﻿using System;
+
+namespace Red_Social_Voluntarios.Views
 {
     public class Vista_Usuario
     {
@@ -25,5 +27,4 @@
             Console.WriteLine(mensaje);
         }
     }
-}
 }

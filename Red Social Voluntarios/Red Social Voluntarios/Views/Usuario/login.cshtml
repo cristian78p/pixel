@@ -1,0 +1,16 @@
+﻿<h2>Iniciar Sesión</h2>
+
+<form asp-action="Login" method="post">
+    <label>Correo:</label><br />
+    <input name="correo" /><br />
+
+    <label>Contraseña:</label><br />
+    <input name="contrasena" type="password" /><br /><br />
+
+    <button type="submit">Entrar</button>
+</form>
+
+@if (ViewBag.Mensaje != null)
+{
+    <p style="color:blue">@ViewBag.Mensaje</p>
+}
