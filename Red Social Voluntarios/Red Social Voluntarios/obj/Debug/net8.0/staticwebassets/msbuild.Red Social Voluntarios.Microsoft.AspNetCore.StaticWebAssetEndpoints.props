@@ -3,14 +3,14 @@
     <StaticWebAssetEndpoint Include="_content/Red Social Voluntarios/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IBE0ZvyE1y8bD/FzeTbJ\u002BwXN8uZsDni089WulLU2xLE="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1497"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022IBE0ZvyE1y8bD/FzeTbJ\u002BwXN8uZsDni089WulLU2xLE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 21:54:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/bSBRy9urzv0Po9Q\u002BDUzgBDqyA0vQOmL/G40ylTetmc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3273"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022/bSBRy9urzv0Po9Q\u002BDUzgBDqyA0vQOmL/G40ylTetmc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 22:40:33 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Red Social Voluntarios/css/site.cx3xni8kye.css">
+    <StaticWebAssetEndpoint Include="_content/Red Social Voluntarios/css/site.zkpqng516d.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cx3xni8kye"},{"Name":"integrity","Value":"sha256-IBE0ZvyE1y8bD/FzeTbJ\u002BwXN8uZsDni089WulLU2xLE="},{"Name":"label","Value":"_content/Red Social Voluntarios/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1497"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022IBE0ZvyE1y8bD/FzeTbJ\u002BwXN8uZsDni089WulLU2xLE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 21:54:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zkpqng516d"},{"Name":"integrity","Value":"sha256-/bSBRy9urzv0Po9Q\u002BDUzgBDqyA0vQOmL/G40ylTetmc="},{"Name":"label","Value":"_content/Red Social Voluntarios/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3273"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022/bSBRy9urzv0Po9Q\u002BDUzgBDqyA0vQOmL/G40ylTetmc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 May 2025 22:40:33 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Red Social Voluntarios/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>

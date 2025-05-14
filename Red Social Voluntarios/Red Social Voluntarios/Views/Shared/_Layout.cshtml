@@ -44,16 +44,44 @@
 
     </header>
     <div class="container">
-        <main role="main" class="pb-3">
+        <main role="main">
             @RenderBody()
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2025 - Red_Social_Voluntarios - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    <footer style="background-color: #f2f2f2;">
+        <div class="footer-columns">
+            <div class="column">
+                <h6>Sobre Nosotros</h6>
+                <a href="#">Quiénes Somos</a>
+                <a href="#">Misión y Visión</a>
+                <a href="#">Equipo</a>
+            </div>
+            <div class="column">
+                <h6>Explorar</h6>
+                <a href="#">Eventos</a>
+                <a href="#">Comunidad</a>
+                <a href="#">Reconocimientos</a>
+            </div>
+            <div class="column">
+                <h6>Recursos</h6>
+                <a href="#">Centro de ayuda</a>
+                <a href="#">Términos y condiciones</a>
+                <a href="#">Política de privacidad</a>
+            </div>
+            <div class="column">
+                <h6>Síguenos</h6>
+                <a href="#">Instagram</a>
+                <a href="#">YouTube</a>
+                <a href="#">LinkedIn</a>
+            </div>
+        </div>
+        <div style="text-align: center; padding: 10px; font-size: 0.85rem; color: #555;">
+            &copy; 2025 - Red Social Voluntarios
         </div>
     </footer>
+
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>

@@ -80,3 +80,95 @@ body {
     width: 100%;
 }
 
+/* === Página principal responsiva y de ancho completo === */
+.hero-section {
+    width: 100%;
+    min-height: 60vh;
+    background-color: #fafafa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 20px;
+}
+
+.hero-content {
+    text-align: center;
+    max-width: 800px;
+    width: 100%;
+}
+
+    .hero-content h1 {
+        font-size: 3rem;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+
+    .hero-content p {
+        font-size: 1.3rem;
+        margin-bottom: 25px;
+    }
+
+.hero-buttons .btn {
+    margin: 5px;
+    border-radius: 20px;
+    padding: 10px 25px;
+    font-size: 1rem;
+}
+
+/* === Responsive ajustes === */
+@media (max-width: 768px) {
+    .hero-content h1 {
+        font-size: 2rem;
+    }
+
+    .hero-content p {
+        font-size: 1rem;
+    }
+
+    .hero-buttons {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .footer-columns {
+        flex-direction: column;
+        text-align: center;
+    }
+
+        .footer-columns .column {
+            margin: 10px 0;
+        }
+}
+
+/* === Footer moderno === */
+.footer-columns {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    font-size: 0.9rem;
+}
+
+    .footer-columns .column {
+        flex: 1 1 200px;
+        margin: 10px 20px;
+    }
+
+    .footer-columns h6 {
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+
+    .footer-columns a {
+        color: #333;
+        text-decoration: none;
+        margin-bottom: 6px;
+        display: block;
+    }
+
+        .footer-columns a:hover {
+            text-decoration: underline;
+        }
