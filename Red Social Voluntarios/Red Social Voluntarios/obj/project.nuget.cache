@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OrZP1gugSAk=",
+  "dgSpecHash": "SPaIj+Ko2Yg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\CamiloCano\\source\\repos\\pixel\\Red Social Voluntarios\\Red Social Voluntarios\\Red Social Voluntarios.csproj",
+  "projectFilePath": "C:\\Users\\CamiloCano\\source\\repos\\Red Social Voluntarios\\Red Social Voluntarios\\Red Social Voluntarios.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CamiloCano\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\CamiloCano\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -1,21 +1,40 @@
 ﻿@model Red_Social_Voluntarios.Models.Usuario
-
-<h2>Formulario de Registro</h2>
-
-<form asp-action="Registro" method="post">
-    <label>Correo:</label><br />
-    <input asp-for="Correo" /><br />
-
-    <label>Nombre de Usuario:</label><br />
-    <input asp-for="NombreUsuario" /><br />
-
-    <label>Contraseña:</label><br />
-    <input asp-for="Contrasena" type="password" /><br /><br />
-
-    <button type="submit">Registrarse</button>
-</form>
-
-@if (ViewBag.Mensaje != null)
-{
-    <p style="color:green">@ViewBag.Mensaje</p>
+@{
+    ViewData["Title"] = "Registro";
 }
+
+<div class="auth-container">
+    <div class="auth-tabs">
+        <button class="active">Registrarse</button>
+        <a asp-controller="Usuario" asp-action="Login">
+            <button class="inactive">Iniciar Sesión</button>
+        </a>
+    </div>
+
+    <form asp-action="Registro" method="post">
+        <label>Nombre Completo</label>
+        <input asp-for="NombreUsuario" type="text" required />
+
+        <label>Correo Electrónico</label>
+        <input asp-for="Correo" type="email" required />
+
+        <label>Contraseña</label>
+        <input asp-for="Contrasena" type="password" required />
+
+        <div class="form-check">
+            <input class="form-check-input" type="radio" name="rol" value="Voluntario" checked>
+            <label class="form-check-label">Voluntario</label>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" type="radio" name="rol" value="Organizacion">
+            <label class="form-check-label">Organización</label>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Registrarse</button>
+    </form>
+
+    @if (ViewBag.Mensaje != null)
+    {
+        <p style="color:green; margin-top:15px;">@ViewBag.Mensaje</p>
+    }
+</div>

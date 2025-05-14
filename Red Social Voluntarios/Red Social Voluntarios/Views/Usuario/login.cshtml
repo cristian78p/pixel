@@ -1,16 +1,29 @@
-﻿<h2>Iniciar Sesión</h2>
-
-<form asp-action="Login" method="post">
-    <label>Correo:</label><br />
-    <input name="correo" /><br />
-
-    <label>Contraseña:</label><br />
-    <input name="contrasena" type="password" /><br /><br />
-
-    <button type="submit">Entrar</button>
-</form>
-
-@if (ViewBag.Mensaje != null)
-{
-    <p style="color:blue">@ViewBag.Mensaje</p>
+﻿@{
+    ViewData["Title"] = "Iniciar Sesión";
 }
+
+<div class="auth-container">
+    <div class="auth-tabs">
+        <a asp-controller="Usuario" asp-action="Registro">
+            <button class="inactive">Registrarse</button>
+        </a>
+        <button class="active">Iniciar Sesión</button>
+    </div>
+
+    <form asp-action="Login" method="post">
+        <label for="correo">Correo Electrónico</label>
+        <input name="correo" type="email" required />
+
+        <label for="contrasena">Contraseña</label>
+        <input name="contrasena" type="password" required />
+
+        <a href="#" style="font-size: 0.9em; display: block; margin-top: 10px;">¿Olvidaste tu contraseña?</a>
+
+        <button type="submit" class="btn btn-primary">Iniciar Sesión</button>
+    </form>
+
+    @if (ViewBag.Mensaje != null)
+    {
+        <p style="color:blue; margin-top:15px;">@ViewBag.Mensaje</p>
+    }
+</div>

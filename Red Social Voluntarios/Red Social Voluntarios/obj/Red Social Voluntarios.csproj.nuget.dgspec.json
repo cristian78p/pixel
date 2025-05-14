@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CamiloCano\\source\\repos\\pixel\\Red Social Voluntarios\\Red Social Voluntarios\\Red Social Voluntarios.csproj": {}
+    "C:\\Users\\CamiloCano\\source\\repos\\Red Social Voluntarios\\Red Social Voluntarios\\Red Social Voluntarios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CamiloCano\\source\\repos\\pixel\\Red Social Voluntarios\\Red Social Voluntarios\\Red Social Voluntarios.csproj": {
+    "C:\\Users\\CamiloCano\\source\\repos\\Red Social Voluntarios\\Red Social Voluntarios\\Red Social Voluntarios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CamiloCano\\source\\repos\\pixel\\Red Social Voluntarios\\Red Social Voluntarios\\Red Social Voluntarios.csproj",
+        "projectUniqueName": "C:\\Users\\CamiloCano\\source\\repos\\Red Social Voluntarios\\Red Social Voluntarios\\Red Social Voluntarios.csproj",
         "projectName": "Red Social Voluntarios",
-        "projectPath": "C:\\Users\\CamiloCano\\source\\repos\\pixel\\Red Social Voluntarios\\Red Social Voluntarios\\Red Social Voluntarios.csproj",
+        "projectPath": "C:\\Users\\CamiloCano\\source\\repos\\Red Social Voluntarios\\Red Social Voluntarios\\Red Social Voluntarios.csproj",
         "packagesPath": "C:\\Users\\CamiloCano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CamiloCano\\source\\repos\\pixel\\Red Social Voluntarios\\Red Social Voluntarios\\obj\\",
+        "outputPath": "C:\\Users\\CamiloCano\\source\\repos\\Red Social Voluntarios\\Red Social Voluntarios\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
