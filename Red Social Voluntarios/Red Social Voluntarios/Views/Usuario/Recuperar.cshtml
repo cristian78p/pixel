@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Recuperar Contraseña";
+}
+
+<div class="auth-container">
+    <h2>Recuperar contraseña</h2>
+    <form asp-action="Recuperar" method="post">
+        <label>Correo Electrónico</label>
+        <input type="email" name="correo" required />
+        <button type="submit" class="btn btn-primary">Enviar código</button>
+    </form>
+
+    @if (ViewBag.Mensaje != null)
+    {
+        <p style="margin-top:10px">@ViewBag.Mensaje</p>
+    }
+</div>

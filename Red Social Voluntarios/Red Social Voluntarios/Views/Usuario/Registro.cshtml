@@ -21,14 +21,21 @@
         <label>Contraseña</label>
         <input asp-for="Contrasena" type="password" required />
 
+        @{
+            var rolSeleccionado = (ViewBag.RolSeleccionado as string ?? "voluntario").ToLower();
+        }
+
         <div class="form-check">
-            <input class="form-check-input" type="radio" name="rol" value="Voluntario" checked>
+            <input class="form-check-input" type="radio" name="rol" value="voluntario"
+            @(rolSeleccionado == "voluntario" ? "checked" : "")>
             <label class="form-check-label">Voluntario</label>
         </div>
         <div class="form-check">
-            <input class="form-check-input" type="radio" name="rol" value="Organizacion">
+            <input class="form-check-input" type="radio" name="rol" value="organizacion"
+            @(rolSeleccionado == "organizacion" ? "checked" : "")>
             <label class="form-check-label">Organización</label>
         </div>
+
 
         <button type="submit" class="btn btn-primary">Registrarse</button>
     </form>

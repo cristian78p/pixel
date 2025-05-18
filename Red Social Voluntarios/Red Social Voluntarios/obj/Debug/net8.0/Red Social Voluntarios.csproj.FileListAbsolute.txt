@@ -889,3 +889,8 @@ C:\Users\CamiloCano\source\repos\Red Social Voluntarios\Red Social Voluntarios\o
 C:\Users\CamiloCano\source\repos\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\Red Social Voluntarios.pdb
 C:\Users\CamiloCano\source\repos\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\Red Social Voluntarios.genruntimeconfig.cache
 C:\Users\CamiloCano\source\repos\Red Social Voluntarios\Red Social Voluntarios\obj\Debug\net8.0\ref\Red Social Voluntarios.dll
+C:\Users\CamiloCano\source\repos\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\CamiloCano\source\repos\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\MailKit.dll
+C:\Users\CamiloCano\source\repos\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\MimeKit.dll
+C:\Users\CamiloCano\source\repos\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\CamiloCano\source\repos\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll

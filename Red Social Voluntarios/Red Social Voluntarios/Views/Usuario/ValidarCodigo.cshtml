@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Validar Código";
+}
+
+<div class="auth-container">
+    <h2>Ingresa el código</h2>
+    <form asp-action="ValidarCodigo" method="post">
+        <label>Código de 4 dígitos</label>
+        <input type="text" name="codigo" maxlength="4" required />
+        <button type="submit" class="btn btn-primary">Validar</button>
+    </form>
+
+    @if (ViewBag.Mensaje != null)
+    {
+        <p style="margin-top:10px; color:red">@ViewBag.Mensaje</p>
+    }
+</div>
