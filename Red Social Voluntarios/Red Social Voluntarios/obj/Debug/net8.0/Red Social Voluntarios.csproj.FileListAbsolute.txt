@@ -894,3 +894,8 @@ C:\Users\CamiloCano\source\repos\Red Social Voluntarios\Red Social Voluntarios\b
 C:\Users\CamiloCano\source\repos\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\MimeKit.dll
 C:\Users\CamiloCano\source\repos\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\CamiloCano\source\repos\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\user\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\user\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\MailKit.dll
+C:\Users\user\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\MimeKit.dll
+C:\Users\user\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\user\Source\Repos\pixel\Red Social Voluntarios\Red Social Voluntarios\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll

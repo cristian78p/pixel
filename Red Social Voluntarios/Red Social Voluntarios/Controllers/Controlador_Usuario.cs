@@ -22,7 +22,7 @@ namespace Red_Social_Voluntarios.Controllers
 
             if (ValidarDatos(correo, nombreUsuario, contrasena))
             {
-                Usuario nuevoUsuario = new Usuario(correo, nombreUsuario, contrasena);
+                Usuario nuevoUsuario = new Usuario();
                 listaUsuarios.Add(nuevoUsuario);
                 vista.MostrarMensaje("Registro exitoso");
                 //  Par la base de datos :)
