@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Red Social Voluntarios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fc1b1f6de940b8596b7f0670053d529f0acd7e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c703f5bda2de929f16fc53212a4e2c3e9cfc82e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Red Social Voluntarios")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Red Social Voluntarios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
